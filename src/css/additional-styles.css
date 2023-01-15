@@ -1,0 +1,37 @@
+.country-list {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.js-country-list {
+  display: flex;
+  gap: 10;
+  align-items: center;
+}
+
+.js-country-text {
+  margin: 0px;
+}
+
+.js-country-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.js-info-card {
+  list-style: none;
+}
+
+.js-info-header {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.js-info-text {
+  font-size: 18px;
+  font-weight: 400;
+}
