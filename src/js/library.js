@@ -1,5 +1,5 @@
-countryList = document.querySelector('.country-list');
-countryInfo = document.querySelector('.country-info');
+const countryList = document.querySelector('.country-list');
+const countryInfo = document.querySelector('.country-info');
 
 export function createCountryList(countries) {
   console.log(countries);
